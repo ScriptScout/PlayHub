@@ -45,6 +45,3 @@ Bei Fragen oder Anmerkungen kontaktiere mich unter: info@kevin-metzdorf.com
 ## Status und Roadmap
 
 Verfolge den Fortschritt des Projekts auf dem Verfolge den Fortschritt des Projekts auf dem [Kanban-Board](https://github.com/users/ScriptScout/projects/4).
-
-Geplante Funktionen:
-- create a timeline
