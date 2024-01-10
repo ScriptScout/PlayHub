@@ -8,11 +8,12 @@
 		<version>3.2.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>de.kevinMetzdorf</groupId>
+	<groupId>de.kevinmetzdorf</groupId>
 	<artifactId>playHub</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>playHub</name>
-	<description>playHub</description>
+	<description>PlayHub Application</description>
+
 	<properties>
 		<java.version>21</java.version>
 	</properties>
