@@ -9,5 +9,4 @@ public class PlayHubApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PlayHubApplication.class, args);
 	}
-
 }
